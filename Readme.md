@@ -1,0 +1,1 @@
+1 Exemplo - Criar um algoritmo que leia um número inteiro e apresente na tela o seu antecedente e o seu sucessor.
